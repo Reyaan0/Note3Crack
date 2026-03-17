@@ -3,7 +3,7 @@ I cracked the Note3 software using reverse engineering and I want everybody to b
 
 📦 What You’ll Need
 
-Make sure you have downloaded the two files:
+Make sure you have Note3 installed in your system. After that download these two files provided by me:
 
     📄 SWCoreSharp.SWAuthorization.SWAuthClients.dll
     📄 SWCoreSharp.SWAuthorization.SWAuthClients.dll.config
